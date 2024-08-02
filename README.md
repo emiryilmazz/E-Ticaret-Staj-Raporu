@@ -1,2 +1,2 @@
 # Proje
-Staj
+Üniversite Staj- Bitirme Projesi Raporu
